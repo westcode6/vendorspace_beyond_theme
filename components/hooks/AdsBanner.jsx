@@ -22,7 +22,7 @@ export default function AdsBanner({
 
      {/* Banner text */}
      <div
-      className={`col-span-4 px-3 md:px-10 py-10  mx-3 bg-gray-100 shadow order-${gridOrder}`}
+      className={`col-span-4 px-3 md:px-10 py-10 w-full md:mx-3 bg-gray-100 shadow order-${gridOrder}`}
      >
       <h1 className="text-2xl font-bold tracking-wide">
        Subscribe for new Arrivals update

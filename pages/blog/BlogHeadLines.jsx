@@ -3,7 +3,7 @@ export default function BlogHeadLines() {
  return (
   <>
    <header className="flex justify-start items-center">
-    <div className="max-w-xl mx-left px-6 md:px-10 pt-10">
+    <div className="max-w-xl mx-left px-4 md:px-10 pt-10 pb-10">
      <h2 className="text-2xl font-semibold tracking-wide text-gray-800">
       The Beyond Family HeadLines
      </h2>
@@ -16,7 +16,7 @@ export default function BlogHeadLines() {
     </div>
    </header>
    <div className="flex justify-center items-center">
-    <div className="2xl:mx-auto 2xl:container lg:px-10 lg:pb-16 md:pb-12 md:px-6  px-3 w-96 sm:w-auto">
+    <div className="2xl:mx-auto  lg:px-10 lg:pb-16 md:pb-12 md:px-6  w-96 sm:w-auto">
      <div className="lg:flex items-stretch md:mt-12">
       <div className="lg:w-1/2">
        <div className="sm:flex items-center justify-between xl:gap-x-8 gap-x-2">

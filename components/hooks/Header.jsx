@@ -18,7 +18,7 @@ export default function Header() {
       elit. Dolor, veniam.
      </p>
      <Link href="/">
-      <a className="my-5 inline-block bg-black rounded-sm text-xs text-white px-10 py-3">
+      <a className="my-5 inline-block bg-black rounded-sm text-sm text-white px-10 py-3">
        SHOP NOW
       </a>
      </Link>
