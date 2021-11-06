@@ -3,15 +3,15 @@ export default function BlogHeadLines() {
  return (
   <>
    <header className="flex justify-start items-center">
-    <div className="max-w-xl mx-left px-2 md:px-10 pt-10">
+    <div className="max-w-xl mx-left px-6 md:px-10 pt-10">
      <h2 className="text-2xl font-semibold tracking-wide text-gray-800">
       The Beyond Family HeadLines
      </h2>
 
      <p className="py-4 text-sm leading-7 tracking-wide text-gray-700">
-      If you&apos;re looking for random paragraphs, you&apos;ve come
-      to the right place. When a random word or a random
-      sentence isn&apos;t quite enough
+      If you&apos;re looking for random paragraphs,
+      you&apos;ve come to the right place. When a random
+      word or a random sentence isn&apos;t quite enough
      </p>
     </div>
    </header>
@@ -19,7 +19,7 @@ export default function BlogHeadLines() {
     <div className="2xl:mx-auto 2xl:container lg:px-10 lg:pb-16 md:pb-12 md:px-6  px-3 w-96 sm:w-auto">
      <div className="lg:flex items-stretch md:mt-12">
       <div className="lg:w-1/2">
-       <div className="sm:flex items-center justify-between xl:gap-x-8 gap-x-6">
+       <div className="sm:flex items-center justify-between xl:gap-x-8 gap-x-2">
         <div className="sm:w-1/2 relative">
          <div>
           <p className="p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">

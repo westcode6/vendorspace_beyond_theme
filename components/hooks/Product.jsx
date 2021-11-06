@@ -98,7 +98,7 @@ export default function Product({ title }) {
         </div>
        </Link>
 
-       <div className="absolute w-8 h-8 rounded-lg bg-pink-100 rounded-sm text-center font-semibold text-xs items-center  flex  justify-center text-pink-600 top-2 -right-2 shadow-xl">
+       <div className="absolute w-8 h-8 rounded-lg bg-gray-50 rounded-sm text-center font-semibold text-xs items-center  flex  justify-center text-pink-600 top-2 -right-2 shadow-xl">
         -20%
        </div>
       </div>

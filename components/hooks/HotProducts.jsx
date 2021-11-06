@@ -91,7 +91,7 @@ export default function HotProducts({ title }) {
         </div>
        </Link>
 
-       <div className="absolute w-8 h-7 top-2 transition ease-out duration-300 hover:bg-pink-500 bg-pink-100 h-8 px-2 py-2 text-center rounded-full text-pink-500 hover:text-white cursor-pointer -right-2 shadow-xl">
+       <div className="absolute w-8 h-7 top-2 transition ease-out duration-300 hover:bg-pink-500 bg-gray-50 h-8 px-2 py-2 text-center rounded-full text-pink-500 hover:text-white cursor-pointer -right-2 shadow-xl">
         <span className="">
          <AiTwotoneHeart />
         </span>
