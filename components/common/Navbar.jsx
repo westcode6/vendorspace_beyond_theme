@@ -7,7 +7,7 @@ export default function Navbar() {
  return (
   <>
    <nav
-    className="px-3 md:px-10 py-2 w-full fixed bg-white shadow-sm md:shadow z-20 top-0"
+    className="px-3 md:px-5 py-2 w-full fixed bg-white shadow-sm md:shadow z-20 top-0"
     style={{ background: "#fffff" }}
    >
     <div className="container mx-auto  py-2 md:flex md:justify-between md:items-center">

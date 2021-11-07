@@ -19,14 +19,14 @@ export default function Product() {
    <Navbar />
 
    <section className="text-gray-700 body-font overflow-hidden bg-white pb-10">
-    <div className="px-5 pt-40 md:pt-24 mx-auto pb-12 md:pb-20">
-     <div className=" mx-auto  px-4 grid grid-cols-1 md:grid-cols-2 gap-4">
+    <div className=" pt-4 md:pt-24 mx-auto pb-5 md:pb-20">
+     <div className=" mx-auto md:px-4 grid grid-cols-1 md:grid-cols-2 md:gap-4 w-full">
       <img
        alt="ecommerce"
-       className="h-96  w-full object-contain bg-gray-100 rounded border border-gray-200"
+       className="h-96  w-full object-contain px-2 rounded border border-gray-200"
        src="/images/smile.jpg"
       />
-      <div className=" w-full lg:pl-10 lg:py-2  md:px-5 mt-6 lg:mt-0">
+      <div className=" w-full lg:pl-10 lg:py-2 bg-white px-3 md:px-5 mt-6 lg:mt-0">
        <h2 className="text-sm title-font text-gray-500 tracking-widest">
         BEYOND COLLECTIONS
        </h2>
