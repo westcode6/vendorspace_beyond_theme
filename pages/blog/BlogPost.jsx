@@ -46,7 +46,7 @@ export default function BlogPost() {
        <div className="text-gray-600 font-semibold text-lg mb-2 mx-3 px-2">
         Dummy text of the printing and typesetting industry
        </div>
-       <div className="text-gray-500 leading-relaxed text-sm mb-6 mx-3 px-2">
+       <div className="text-gray-500 leading-relaxed font-thin text-sm mb-6 mx-3 px-2">
         Lorem Ipsum is simply dummy text of the printing and
         typesetting industry. Lorem Ipsum has been the
         industry&apos;`s standard dummy text ever since the

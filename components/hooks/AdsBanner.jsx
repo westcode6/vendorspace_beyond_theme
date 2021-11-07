@@ -8,8 +8,8 @@ export default function AdsBanner({
 }) {
  return (
   <>
-   <main className="md:mx-8">
-    <section className="grid md:grid-cols-12">
+   <main className="md:mx-8 w-full">
+    <section className="grid md:grid-cols-12 w-full">
      {/* Banner image */}
 
      <div className="col-span-8 order-1">
