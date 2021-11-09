@@ -78,11 +78,11 @@ export default function Product({ title }) {
           </h5>
 
           <div className="flex flex-col justify-center items-center">
-           <span className="font-semibold">
+           <span className="font-semibold text-xs py-1">
             {item.price}
            </span>
-           <span className="text-gray-400 px-4">
-            {item.discount}
+           <span className="text-gray-400 text-xs px-4">
+            <strike>{item.discount}</strike>
            </span>
           </div>
 

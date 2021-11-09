@@ -3,8 +3,8 @@ export default function BlogHeadLines() {
  return (
   <>
    <header className="flex justify-start items-center">
-    <div className="max-w-xl mx-left px-4 md:px-10 pt-10 pb-10">
-     <h2 className="text-2xl font-semibold tracking-wide text-gray-800">
+    <div className="max-w-xl mx-left px-4 md:px-10 pt-20">
+     <h2 className="text-2xl md:text-3xl font-semibold tracking-wide text-gray-800">
       The Beyond Family HeadLines
      </h2>
 

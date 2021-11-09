@@ -7,7 +7,6 @@ import MostPopular from "../components/hooks/MostPopular";
 import RecommendedProducts from "../components/hooks/RecommendedProducts";
 import Footer from "../components/common/Footer";
 import AdsBanner from "../components/hooks/AdsBanner";
-import BlogHeadLines from "./blog/BlogHeadLines";
 
 export default function Home() {
  return (
@@ -62,11 +61,6 @@ export default function Home() {
    </div>
 
    <div>
-    {/* BlogHeadLines Component */}
-    <BlogHeadLines />
-   </div>
-
-   <div>
     {/* Footer */}
     <Footer />
    </div>
@@ -78,7 +72,6 @@ export default function Home() {
      margin: 0;
      font-family: "Assistant", sans-serif;
     }
-
     ,
     * {
      box-sizing: border-box;

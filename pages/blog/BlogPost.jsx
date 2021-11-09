@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { AiTwotoneHeart } from "react-icons/ai";
 import Navbar from "../../components/common/Navbar";
-import AddComment from "../../components/blog/AddComment";
-import BlogReviews from "../../components/blog/BlogReviews";
+import AddComment from "./components/AddComment";
+import BlogReviews from "./components/BlogReviews";
 import BlogHeadLines from "./BlogHeadLines";
 import Footer from "../../components/common/Footer";
 

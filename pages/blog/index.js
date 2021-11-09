@@ -1,10 +1,10 @@
-import BlogBanner from "../../components/blog/BlogBanner";
+import BlogBanner from "./components/BlogBanner";
 import Blog from "./BlogHeadLines";
-import Navbar from "..//../components/common/Navbar";
+import Navbar from "../../components/common/Navbar";
 import BlogHeadLines from "./BlogHeadLines";
 import Footer from "../../components/common/Footer";
 
-export default function BlogPage() {
+export default function Index() {
  return (
   <>
    <div>

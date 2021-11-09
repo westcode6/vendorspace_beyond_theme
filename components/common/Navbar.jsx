@@ -96,7 +96,7 @@ export default function Navbar() {
          Shop
         </a>
        </Link>
-       <Link href="/blog/1">
+       <Link href="/blog/">
         <a
          className="my-1 text-xs text-gray-600 font-medium hover:text-gray-900 md:mx-4 md:my-0"
          href="#"

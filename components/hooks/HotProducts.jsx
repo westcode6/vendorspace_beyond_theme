@@ -72,11 +72,11 @@ export default function HotProducts({ title }) {
          </figure>
 
          <div className="py-3 text-center">
-          <h5 className="font-semibold text-sm text-gray-700">
+          <h5 className="font-medium text-sm text-gray-700">
            {item.productName}
           </h5>
 
-          <div className="flex justify-center items-center">
+          <div className="flex justify-center font-semibold text-xs py-2 items-center">
            <span>{item.price}</span>
           </div>
           <div className="flex justify-center mt-2">
